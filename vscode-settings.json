@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontSize": 16,
+    "editor.formatOnPaste": true,
+    "git.autofetch": true,
+    "cSpell.userWords": [
+        "component",
+        "denormalize",
+        "ellipsize",
+        "equipmentshare",
+        "mode",
+        "normalizr",
+        "parens",
+        "unmount",
+        "will"
+    ],
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "html.format.indentInnerHtml": true,
+    "editor.formatOnSave": false,
+    "editor.detectIndentation": true,
+    "editor.wrappingIndent": "indent",
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "cSpell.language": "en",
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": "300",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "editor.tabSize": 2,
+    "eslint.packageManager": "yarn",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+    ]
+}
