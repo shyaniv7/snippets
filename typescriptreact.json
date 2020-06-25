@@ -26,5 +26,15 @@
 		"prefix": "defenum",
 		"body": "enum ${1:EnumName} {\n\t${2:Key} = ${3:Value},\n};\n",
 		"description": "Enum Definition"
+	},
+	"useState": {
+		"prefix": "defusestate",
+		"body": "const [${1:value}, ${2:setValue}] = React.useState(${3:initialValue});\n",
+		"description": "React useState hook"
+	},
+	"useEffect": {
+		"prefix": "defuseeffect",
+		"body": "React.useEffect(() => {\n\t${1:doSomething}\n});\n",
+		"description": "React useEffect hook"
 	}
 }
